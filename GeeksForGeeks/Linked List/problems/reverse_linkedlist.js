@@ -9,4 +9,4 @@ var reverseList = function(head) {
         cur = next
     }
     return prev
-};
+}

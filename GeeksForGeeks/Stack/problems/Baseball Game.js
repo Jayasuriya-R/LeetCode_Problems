@@ -16,4 +16,4 @@ var calPoints = function(operations) {
         sum += st[j]
     }
     return sum
-};
+}
